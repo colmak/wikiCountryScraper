@@ -1,6 +1,7 @@
 # Wiki Country Scraper
 
 One example showcasing the data we collected
+
 ![image](https://github.com/colmak/wikiCountryScraper/assets/69098858/c90bf4ea-77de-40c9-b9e0-7839de2aa262)
 
 
